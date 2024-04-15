@@ -3,7 +3,7 @@
 ✨I enjoy *creating, designing, and developing*!
 
 # 🍁About me!
-👩🏻‍💻 As  an **information Technology Engineering student**, I am passionate to learn and explore the coding world 
+👩🏻‍💻 As  an **Information Technology Engineering student**, I am passionate about learning and exploring the coding world 
 
 🌱 I’m currently learning and exploring programming through C and C++ languages
 
@@ -14,7 +14,7 @@
 **Tools:** VS Code
 #
 
-*Thank You for visiting! Hoping exciting projects and collaborations in the near future!*
+*Thank You for visiting! Hoping for exciting projects and collaborations soon!*
 
 
 
