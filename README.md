@@ -11,7 +11,7 @@
 
 **Languages :** C, C++
 
-**Tools:** VS Code
+**Tools:** VS Code, Codeblocks
 #
 
 *Thank You for visiting! Hoping for exciting projects and collaborations soon!*
