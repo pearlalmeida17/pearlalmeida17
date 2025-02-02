@@ -3,13 +3,13 @@
 ✨I enjoy *creating, designing, and developing*!
 
 # 🍁About me!
-👩🏻‍💻 As  an **Information Technology Engineering student**, I am passionate about learning and exploring the coding world 
+👩🏻‍💻 As  a **Computer Science major**, I am passionate about learning and exploring the coding world 
 
-🌱 I’m currently learning and exploring programming through C and C++ languages
+🌱 I’m currently learning and exploring programming through C++ and Python languages
 
 # 🚀Technologies and Tools
 
-**Languages :** C, C++
+**Languages :** C, C++, Python
 
 **Tools:** VS Code, Codeblocks
 #
